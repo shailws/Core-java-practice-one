@@ -1,0 +1,6 @@
+package day1_package;
+
+public class Array1 {
+	public static void main(String[] args) {
+	}
+}

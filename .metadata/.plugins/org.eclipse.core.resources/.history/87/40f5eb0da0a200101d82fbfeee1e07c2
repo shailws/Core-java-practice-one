@@ -1,0 +1,11 @@
+package MTdemo;
+
+public class ThreadNameDemo {
+	public static void main(String[] args) {
+		System.out.println("hello");
+		System.out.println(Thread.currentThread().getName());
+		
+		Thread.currentThread().setName("shailu");
+		System.out.println(Thread.currentThread().getName());
+	}
+}

@@ -1,0 +1,22 @@
+package MTdemo;
+
+public class ThreadNameDemo extends Thread {
+	@Override
+	public void run() {
+		Thread.currentThread().setName("demo1");
+		System.out.println("Thread task 1 : " + Thread.currentThread().getName());
+	}
+
+	public static void main(String[] args) {
+		System.out.println("hello  : " + Thread.currentThread().getName());
+
+		ThreadNameDemo t1 = new ThreadNameDemo();
+//		t1.setName("demo 1");
+		t1.start();
+		
+//		ThreadNameDemo t2 = new ThreadNameDemo();
+//		t2.setName("demo 2");
+//		t2.start();
+
+	}
+}

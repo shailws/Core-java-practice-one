@@ -1,0 +1,13 @@
+//perform multiple task from multiple threads.
+
+package MTdemo;
+
+class casee4 extends Thread {
+	@Override
+	public void start() {
+		System.out.println("task 1");
+	}
+}
+public class Case4 {
+
+}

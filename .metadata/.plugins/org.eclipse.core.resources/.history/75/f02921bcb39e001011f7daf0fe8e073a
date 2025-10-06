@@ -1,0 +1,10 @@
+//performing single task from multiple theads.
+
+package MTdemo;
+
+public class Case2 extends Thread{
+	@Override
+	public void run() {
+		System.out.println("task 1");
+	}
+}
