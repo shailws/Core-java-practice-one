@@ -36,7 +36,8 @@
     <fullyQualifiedTypeName name="MTdemo.Mythread1"/>
     <fullyQualifiedTypeName name="MTdemo.Case2"/>
     <fullyQualifiedTypeName name="MTdemo.Casee4"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="MTdemo.ThreadNameDemo"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="MTdemo.Test"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
