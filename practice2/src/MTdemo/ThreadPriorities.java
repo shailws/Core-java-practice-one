@@ -13,7 +13,7 @@ public class ThreadPriorities extends Thread {
 		System.out.println("main thread new priority : "+Thread.currentThread().getPriority());
 		
 		ThreadPriorities t = new ThreadPriorities();
-		t.setPriority(NORM_PRIORITY);
+		t.setPriority(MIN_PRIORITY);
 		t.start();
 	}
 }

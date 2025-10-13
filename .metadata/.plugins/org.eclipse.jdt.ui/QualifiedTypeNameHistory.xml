@@ -37,7 +37,9 @@
     <fullyQualifiedTypeName name="MTdemo.Case2"/>
     <fullyQualifiedTypeName name="MTdemo.Casee4"/>
     <fullyQualifiedTypeName name="MTdemo.ThreadNameDemo"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="MTdemo.Test"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="MTdemo.ThreadPriorities"/>
+    <fullyQualifiedTypeName name="MTdemo.SleepDemo3"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
